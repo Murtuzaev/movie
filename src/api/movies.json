@@ -1,0 +1,100 @@
+{
+  "movies": [
+
+    {
+      "id": 1,
+      "name" : "Squid Game",
+      "rate": 8.5,
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yACIAqAkSLkX4coHafpyLWAtQjw.jpg",
+      "year" : 2021
+  },
+  {
+      "id": 2,
+      "name" : "Stranger Things",
+      "rate": 8.8,
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+      "year" : 2016
+  },
+
+  {
+      "id": 3,
+      "name" : "You",
+      "rate": 7.8,
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yxIdKGEjagaLs5kMjw92kAHmopH.jpg",
+      "year" : 2019
+  },
+
+  {
+      "id": 4,
+      "name" : "I am not okay with this",
+      "rate": 7,
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kf3yX0ILNlLJ42X3lX2iYJ3QRp6.jpg",
+      "year" : 2020
+  },
+
+  {
+      "id": 5,
+      "name" : "My Name",
+      "rate": 8,
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncAKKmr1sfFhQvn6LeGTY2QBge.jpg",
+      "year" : 2021
+  },
+
+  {
+      "id": 6,
+      "name" : "Dark",
+      "rate": 8.6,
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg",
+      "year" : 2017
+  },
+
+  {
+      "id": 7,
+      "name" : "Red Notice",
+      "rate": 8.1,
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kXWDfaKuw7dIdTDH7rK3BWoAZ53.jpg",
+      "year" : 2021
+  },
+
+  {
+      "id": 8,
+      "name" : "Fast and Furios",
+      "rate": 9,
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1EoKu1Nu8oMFa4evDJtNBW3cDQ9.jpg",
+      "year" : 2021
+  },
+
+  {
+      "id": 9,
+      "name" : "The Amazing Spiderman",
+      "rate": 7.5,
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/YoNuu4xeGIBTLAPse6RdWgV51t.jpg",
+      "year" : 2012
+  },
+
+  {
+      "id": 10,
+      "name" : "Peaky Blinders",
+      "rate": 8.4,
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bGZn5RVzMMXju4ev7xbl1aLdXqq.jpg",
+      "year" : 2013
+  },
+   
+  {
+      "id": 11,
+      "name" : "Moon Knight",
+      "rate": 6.8,
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vKDUmKO6F9bSKKyHhg7YGbgcEeF.jpg",
+      "year" : 2022
+  },
+
+  {
+      "id": 12,
+      "name" : "Aşk 101",
+      "rate": 8.1,
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l6pLzAgUU2QpJ6KlsReqSqwWnfa.jpg",
+      "year" : 2021
+  }
+
+  ]
+}
